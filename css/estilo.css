@@ -51,8 +51,9 @@ header,
 }
 
 .headingTitle {
+  padding-top: 260px;
   font-weight: 500 !important;
-  font-size: 5.5rem !important;
+  font-size: 5rem !important;
 }
 
 .subText {
@@ -61,6 +62,24 @@ header,
 
 .fa-camera-retro {
   color: rgb(255, 83, 4) !important;
+}
+
+.blog{
+  width: 98px;
+  height: 98px;
+  border-radius: 5px;
+}
+
+.e-comerce {
+ width: 98px;
+ height: 98px;
+ border-radius: 5px; 
+}
+
+.institucional {
+  width: 98px;
+ height: 98px;
+ border-radius: 5px; 
 }
 
 
